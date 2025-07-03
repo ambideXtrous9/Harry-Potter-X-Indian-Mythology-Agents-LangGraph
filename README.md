@@ -16,15 +16,19 @@ This system implements a cyclic workflow of three agents:
    - Augments it with live web facts using DuckDuckGo (`ddg_search`).
    - Structured as ReAct streaming agent.
 
-2. **✍️ Writer**
+2. **🧙‍♂️ Indian Mythology Expert**
+   - Augments it with live web facts using DuckDuckGo (`ddg_search`).
+   - Do Research on Indian Mythology and Relates with the Topic
+
+
+3. **✍️ Writer**
    - Crafts a polished article using the research.
    - Leverages `ddg_search` to enrich with quotes, stats.
    - Uses ReAct with `Thought:`, `Action:`, `Observation:`, `Final Answer:` tags.
 
-3. **🧑‍⚖️ Critic**
+4. **🧑‍⚖️ Critic**
    - Evaluates the draft for factual correctness and clarity.
    - Returns approval (`yes`/`no`) to determine looping.
-   - Uses substring check (`"yes" in feedback.lower()`).
 
 The agents are connected via **LangGraph**:
 
