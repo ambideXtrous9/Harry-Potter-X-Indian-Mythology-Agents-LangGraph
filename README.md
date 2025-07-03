@@ -1,5 +1,5 @@
 
-# 🧙‍♂️🪄 Harry Potter : Multi‑Agent LangGraph Pipeline with GroqChat, RAG & Web Search
+# 🧙‍♂️🪄 Harry Potter X Indian Mythology : Multi‑Agent LangGraph Pipeline with GroqChat, RAG & Web Search
 
 ![Harry](https://deep-image.ai/blog/content/images/size/w2000/2023/11/12d8bbec-eb85-4cae-83c3-b88621e64013-1.png)
 
