@@ -32,6 +32,8 @@ This system implements a cyclic workflow of three agents:
 
 The agents are connected via **LangGraph**:
 
+![output](https://github.com/user-attachments/assets/ffdf2e08-3e72-4fda-978d-d0b7ad0a3f4c)
+
 ## Example : 
 
 ## **Query : Impact of Dumbledore in Harry's life ?**
