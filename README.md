@@ -5,7 +5,9 @@
 
 A robust multi-agent pipeline powered by **LangGraph**, **GroqChat (Qwen 3 32B)**, RAG over Harry Potter documents, and real-time search using DuckDuckGo & Tavily.
 
-[Kaggle Link](https://www.kaggle.com/code/sushovansaha9/harry-potter-x-indian-mythology-multi-agent)
+[Kaggle Notebook](https://www.kaggle.com/code/sushovansaha9/harry-potter-x-indian-mythology-multi-agent)
+
+[Dataset](https://www.kaggle.com/datasets/shubhammaindola/harry-potter-books)
 
 ---
 
